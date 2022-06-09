@@ -64,6 +64,12 @@ hr{
   text-align: left;
   line-height: 2;
 }
+.contact-me{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+  line-height: 2;
+}
 .code-img{
   width: 25%;
   float: left;
